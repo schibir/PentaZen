@@ -54,7 +54,7 @@ extern "C" {
 #define TIME_RSV                    50
 
 // Board display control.
-#define DISPLAY_BOARD               1
+#define DISPLAY_BOARD               0
 #define DISPLAY_ATTACK              0
 #define DISPLAY_DEFEND              0
 #define DISPLAY_PATTERN             1
